@@ -4,7 +4,7 @@
  * Script to download the Wikipedia homepage, extract headings, abstracts, pictures, and links
  * from the page sections, and save the data into the wiki_sections table in a MySQL database.
  *
- * use setup_database.sql file to setup database and table
+ * use sql/task2_setup_database.sql file to setup database and table
  *
  */
 
